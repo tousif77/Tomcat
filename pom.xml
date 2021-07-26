@@ -4,8 +4,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>net.imtiger</groupId>
     <artifactId>tomcat-study</artifactId>
-    <name>Tomcat 7.0 Study</name>
-    <version>1.0</version>
+    <version>1.0.0</version>
     <<packaging>war</packaging>
 
     <modules>
